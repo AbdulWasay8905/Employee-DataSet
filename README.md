@@ -31,11 +31,12 @@ This project is a comprehensive exploratory data analysis (EDA) of an employee d
 
 The dataset contains information about employees, such as:
 
+- Employee_ID
 - Age  
 - Department  
 - Salary  
 - Experience  
-- Gender  
+- Designation
 - ...and more  
 
 *Note: Replace this with actual columns or a link to the dataset if public.*
