@@ -23,7 +23,7 @@ This project is a comprehensive exploratory data analysis (EDA) of an employee d
 - **Pandas** – data manipulation and analysis
 - **NumPy** – numerical computations
 - **Seaborn** – statistical data visualization  
-*(Optional: Matplotlib if used)*
+- **Matplotlib** - for ploting the charts
 
 ---
 
